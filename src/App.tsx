@@ -3,7 +3,7 @@ import * as fal from "@fal-ai/serverless-client";
 import { Image, Download } from 'lucide-react';
 
 fal.config({
-  credentials: "dc90dd1b-1826-4251-8db9-1dd21655ac72:387d2fbe137862a4bf10c117d88d40b0"
+  credentials: "***"
 });
 
 function App() {
